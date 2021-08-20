@@ -16,7 +16,9 @@
     "url": "https://github.com/jdeschat/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/jdeschat/jest-another-RPG#readme",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
   "directories": {
     "lib": "lib"
   },
